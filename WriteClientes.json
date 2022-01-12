@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "ciudad": "Mendoza",
+        "saldo": 7518
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Sanchez",
+        "ciudad": "Cordoba",
+        "saldo": [
+            1980,
+            5500
+        ]
+    },
+    {
+        "nombre": "Andres",
+        "apellido": "Gonzalez",
+        "ciudad": "Buenos Aires",
+        "saldo": 10200
+    }
+]
