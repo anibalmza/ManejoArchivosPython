@@ -1,0 +1,4 @@
+archivo con varias lineas 1
+esta es la linea 2 del archivo
+otra linea mas es la 3
+esta es la ultima linea 4 !!
