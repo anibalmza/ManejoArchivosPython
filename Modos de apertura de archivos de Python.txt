@@ -1,0 +1,12 @@
+Modos de apertura de archivos de Python
+
+Modo	Accion			Puntero			Funcion
+r	lectura			inicio del archivo	file = open("archivo.txt", "r")
+r+	lectura/escritura	inicio del archivo	file = open("archivo.txt", "r+")
+w	escritura		inicio del archivo	file = open("archivo.txt", "w")
+w+	lectura/escritura	inicio del archivo	file = open("archivo.txt", "w+")
+a	agregar(anexar)		final del archivo	file = open("archivo.txt", "a")
+a+	lectura/anexar		final del archivo	file = open("archivo.txt", "a+")
+creacion exclusiva no se creara si ya existe -> mostrara error
+x	lectura						file = open("archivo.txt", "x")
+x+	lectura/escritura				file = open("archivo.txt", "x+")
